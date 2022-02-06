@@ -78,4 +78,5 @@ Klarineus=Translation
 Yawshi=Translation, CT dev
 CyberYoshi64=Translation
 sjk=Translation
+저세상 비디오=Translation
 You=CTGP-7 Player
